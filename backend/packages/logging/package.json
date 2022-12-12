@@ -1,0 +1,7 @@
+{
+  "name": "@ingka/logging",
+  "private": true,
+  "dependencies": {
+    "@opentelemetry/api": "^1.1.0"
+  }
+}
